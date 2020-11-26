@@ -1,1 +1,1 @@
-"qualified_schema.qualified_table"
+'simi_autotest_schema.simi_autotest_table'
