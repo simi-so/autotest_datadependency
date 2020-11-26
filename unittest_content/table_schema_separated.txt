@@ -1,0 +1,3 @@
+dist_schema
+
+dist_table
